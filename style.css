@@ -805,6 +805,10 @@ footer {
     .news-container {
       display: none;
     }
+
+    .navbar {
+      width: 100%;
+    }
   }
 
   @media screen and (min-width: 821px) {
